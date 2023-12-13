@@ -56,5 +56,3 @@ app.use("/api/comments", commentRoute)
 app.listen(process.env.PORT, () => {
   console.log("Server is running at post: " + process.env.PORT);
 })
-
-//7OX3wwCW7tffW5MZ
